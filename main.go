@@ -18,69 +18,69 @@ func main() {
 		}
 	case 2:
 		if dia < 19 {
-			fmt.Print("Acuario")
+			fmt.Print("acuario")
 		} else {
-			fmt.Print("Pisis")
+			fmt.Print("pisis")
 		}
 	case 3:
 		if dia < 21 {
-			fmt.Print("Pisis")
+			fmt.Print("pisis")
 		} else {
-			fmt.Print("Aries")
+			fmt.Print("aries")
 		}
 	case 4:
 		if dia < 20 {
-			fmt.Print("Aries")
+			fmt.Print("aries")
 		} else {
-			fmt.Print("Tauro")
+			fmt.Print("tauro")
 		}
 	case 5:
 		if dia < 21 {
-			fmt.Print("Tauro")
+			fmt.Print("tauro")
 		} else {
-			fmt.Print("Géminis")
+			fmt.Print("geminis")
 		}
 	case 6:
 		if dia < 21 {
-			fmt.Print("Géminis")
+			fmt.Print("geminis")
 		} else {
-			fmt.Print("Cáncer")
+			fmt.Print("cancer")
 		}
 	case 7:
 		if dia < 23 {
-			fmt.Print("Cáncer")
+			fmt.Print("cancer")
 		} else {
-			fmt.Print("Leo")
+			fmt.Print("leo")
 		}
 	case 8:
 		if dia < 23 {
-			fmt.Print("Leo")
+			fmt.Print("leo")
 		} else {
-			fmt.Print("Virgo")
+			fmt.Print("virgo")
 		}
 	case 9:
 		if dia < 23 {
-			fmt.Print("Virgo")
+			fmt.Print("virgo")
 		} else {
-			fmt.Print("Libra")
+			fmt.Print("libra")
 		}
 	case 10:
 		if dia < 23 {
-			fmt.Print("Libra")
+			fmt.Print("libra")
 		} else {
-			fmt.Print("Escorpio")
+			fmt.Print("escorpio")
 		}
 	case 11:
 		if dia < 22 {
-			fmt.Print("Escorpio")
+			fmt.Print("escorpio")
 		} else {
-			fmt.Print("Sagitario")
+			fmt.Print("sagitario")
 		}
 	case 12:
 		if dia < 22 {
-			fmt.Print("Sagitario")
+			fmt.Print("sagitario")
 		} else {
-			fmt.Print("Capricornio")
+			fmt.Print("capricornio")
 		}
 	default:
 		fmt.Print("error")
